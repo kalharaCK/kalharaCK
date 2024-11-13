@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chamith Kavindu Kalhara
 # 💫 About Me:
 🔭 Deep diving into interesting subject matter is my thing.<br>🌱 I’m currently learning UI/UX, Robotics and Electronics.<br>⚡ Currently, I'm working on bunch of things.
--🥳 My hackerrank achievements : https://www.hackerrank.com/profile/ckkalharaoffici1
+<br>🥳 My hackerrank achievements : https://www.hackerrank.com/profile/ckkalharaoffici1
 
 
 # 🌐 Socials:
