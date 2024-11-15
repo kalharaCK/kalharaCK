@@ -2,11 +2,11 @@
 
 💫 **About Me:**
 
-Deep diving into interesting subject matter is my thing.
-🌱 I'm currently learning UI/UX, Robotics, and Electronics.
-⚡ Currently, I'm working on a bunch of exciting projects!
+<br>Deep diving into interesting subject matter is my thing.
+<br>🌱 I'm currently learning UI/UX, Robotics, and Electronics.
+<br>⚡ Currently, I'm working on a bunch of exciting projects!
 
-🥳 **My HackerRank Achievements:** [https://www.hackerrank.com/profile/ckkalharaoffici1](https://www.hackerrank.com/profile/ckkalharaoffici1)
+<br>🥳 **My HackerRank Achievements:** [https://www.hackerrank.com/profile/ckkalharaoffici1](https://www.hackerrank.com/profile/ckkalharaoffici1)
 
 
 🌐 **Socials:**
