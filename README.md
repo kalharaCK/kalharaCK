@@ -6,15 +6,7 @@
 <br>🌱 I'm currently learning UI/UX, Robotics, and Electronics.
 <br>⚡ Currently, I'm working on a bunch of exciting projects!
 
-<br>🥳 **My HackerRank Achievements:** [https://www.hackerrank.com/profile/ckkalharaoffici1](https://www.hackerrank.com/profile/ckkalharaoffici1)
-
-
-🌐 **Socials:**
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080722353200)  <!-- Corrected Facebook link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-kalhara-30a476319)  <!-- Corrected LinkedIn link -->
-
-
+<br>🥳 My HackerRank Achievements: [https://www.hackerrank.com/profile/ckkalharaoffici1](https://www.hackerrank.com/profile/ckkalharaoffici1)
 
 <!-- Remove this line if you don't want a visit counter -->
 [![](https://visitcount.itsvg.in/api?id=kalharaCK&icon=0&color=0)](https://visitcount.itsvg.in)
