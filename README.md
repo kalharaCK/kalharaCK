@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chamith Kavindu Kalhara
+# 👋 Hi, I’m Kavindu Kalhara
 
 💫 **About Me:**
 
