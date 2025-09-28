@@ -110,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kalharaCK&style=for-the-badge&color=blue" alt="Profile Views" />
   
   **⭐ Star my repositories if you find them interesting!**
 </div>
