@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Kalhara
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Electrical+%26+Electronic+Engineer;IoT+%26+Robotics+Developer;Autonomous+Navigation+Expert;Embedded+Systems+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Electrical+%26+Electronics+Engineer;IoT+%26+Robotics+Developer;Autonomous+Navigation+System+Designer;Embedded+Systems+Designer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
