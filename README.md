@@ -78,7 +78,11 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaCK&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaCK&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Current Focus
