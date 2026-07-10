@@ -55,13 +55,6 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalharaCK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaCK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 
 
