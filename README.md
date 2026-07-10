@@ -1,89 +1,116 @@
-# Chamith Kavindu Kalhara
+# Hi there! 👋 I'm Kalhara
 
-Electrical and Information Engineering Undergraduate
-Faculty of Engineering, University of Ruhuna
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Electrical+%26+Electronics+Engineer;IoT+%26+Robotics+Developer;Autonomous+Navigation+System+Designer;Embedded+Systems+Designer" alt="Typing SVG" />
+</div>
 
-Embedded Systems & IoT Engineer
+## 🚀 About Me
+
+- 🔭 I'm currently working on **IoT solutions**, **autonomous navigation systems**, and **robotics projects**
+- 🌱 I'm currently learning **new technologies** in robotics, computer vision, and machine learning
+- 👯 I'm looking to collaborate on **open source robotics projects** and **autonomous systems development**
+- 💬 Ask me about **robotics**, **autonomous navigation**, **IoT development**, **FPGA design**, or **embedded systems**
+- ⚡ Fun fact: I love creating intelligent systems that can navigate and interact with the world autonomously
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VHDL](https://img.shields.io/badge/VHDL-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Embedded & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-FF6B6B?style=for-the-badge&logo=xilinx&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### Robotics & AI
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6B6B?style=for-the-badge&logo=gazebo&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalharaCK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaCK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kalharaCK&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaCK&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF" alt="Contribution Graph" />
+</div>
+
+
+
+## 🎯 Current Focus
+
+- 🔥 Building IoT solutions and embedded systems
+- 🚀 Contributing to open source hardware and software projects
+- 📚 Learning new technologies in both embedded and web development
+- 💡 Creating innovative solutions that bridge hardware and software
+- ⚡ Developing FPGA-based systems and high-performance computing solutions
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/kavindu-kalhara-30a476319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:ckkalharaofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+ 
+</div>
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Feel+free+to+explore+my+repositories;Let's+connect+and+collaborate!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 ---
----
 
-## Education
-
-**BSc Eng. (Hons) Electrical and Information Engineering** — 2023 – Present
-University of Ruhuna, Faculty of Engineering
-
----
-
-## Skills
-
-**Embedded Systems**
-STM32 (Cortex-M3/M4) · ESP32 · AVR (ATmega) · FreeRTOS · interrupt handling · DMA · low-power design
-
-**IoT & Connectivity**
-MQTT · REST APIs · LoRaWAN · GSM/GPRS · AWS IoT · ThingsBoard · Wi-Fi & Bluetooth · edge-to-cloud pipelines
-
-**Analog & Mixed-Signal**
-Analog circuit design · power line communication (ASK/FSK) · sensor signal conditioning · ADC/DAC interfacing · EMI/noise filtering
-
-**PCB Design**
-Altium Designer · EasyEDA · DFM · Gerber/stencil generation · multi-layer layouts · power integrity
-
-**Digital Design**
-Verilog · SystemVerilog · FSM design · clock domain management · FPGA implementation (Xilinx Nexys A7, Artix-7 100T)
-
-**Programming**
-C · C++ · Python · MATLAB · Git · MERN stack
-
-**Protocols**
-I2C · SPI · UART · CAN · MQTT
-
-**Instruments**
-Oscilloscope · logic analysers · signal generators · power supplies · multimeters
-
----
-
-**Freelance Electronic Systems Designer** — 2022 – Present
-- Designed custom electronic solutions including embedded systems and bespoke circuit designs
-- Performed circuit simulation and analysis; delivered optimised, cost-effective hardware solutions
-- Produced complete technical documentation: schematics, PCB layouts, BOM, and performance reports
-
----
-
-## Projects
-
-**Analog Power Line Communication System — ASK & FSK Modulation**
-Fully analog PLC system transmitting data over live AC mains wiring, with discrete modulator/demodulator circuits, galvanic isolation, and TVS protection. Characterised SNR and BER across varying line conditions.
-
-**IIoT Industrial Machine Monitoring Node**
-Ruggedised ESP32-based IIoT node with GSM connectivity for real-time machine health diagnostics — thermocouples, IR sensors, and current transformers, custom PCB in EasyEDA, IP65 enclosure, ThingsBoard dashboard with SMS/email alerting.
-
-**Microcontroller-Based Digital Multimeter — Custom PCB Design**
-2-layer PCB multimeter built around an STM32F103C8T6, measuring DC/AC voltage, DC current, and resistance. Auto-ranging firmware, relay switching, and careful analog layout for an estimated 68.5 h battery life.
-
-**PCB Power-Up Circuit — AT91SAM9G25-CU ARM9 MPU**
-Compact 25×50 mm production-ready PCB in Altium Designer with power sequencing, reverse-polarity and ESD protection, and DFM-aligned pad sizing. Delivered fabrication-ready package; client proceeded to mass production.
-
-**FPGA Stopwatch with Lap Timer — SystemVerilog on Nexys A7**
-FSM-based stopwatch with clock divider hierarchy, BCD counters, and lap-time memory registers, taken through the full Vivado flow from synthesis to bitstream.
-
----
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kalharaCK&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaCK&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
-
----
-
-## Contact
-
-Phone — +94 71 979 2341
-Email — ckkalharaofficial@gmail.com
-LinkedIn — linkedin.com/in/kavindu-kalhara-30a476319
-GitHub — github.com/kalharaCK
-
----
-
-Star my repositories if you find them useful.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kalharaCK&style=for-the-badge&color=blue" alt="Profile Views" />
+  
+  **⭐ Star my repositories if you find them interesting!**
+</div>
