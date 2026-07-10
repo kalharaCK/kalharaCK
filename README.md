@@ -63,17 +63,6 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalharaCK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kalharaCK&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalharaCK&theme=github-compact&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF" alt="Contribution Graph" />
-</div>
 
 
 
