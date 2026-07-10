@@ -6,12 +6,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **IoT solutions**, **autonomous navigation systems**, and **robotics projects**
-- 🌱 I'm currently learning **new technologies** in robotics, computer vision, and machine learning
-- 👯 I'm looking to collaborate on **open source robotics projects** and **autonomous systems development**
-- 💬 Ask me about **robotics**, **autonomous navigation**, **IoT development**, **FPGA design**, or **embedded systems**
-- ⚡ Fun fact: I love creating intelligent systems that can navigate and interact with the world autonomously
+I'm an Electrical and Information Engineering undergraduate at the University of Ruhuna, working across firmware, PCB design, and cloud-connected IoT systems. Day to day that means writing RTOS firmware for STM32 and ESP32, designing analog circuits and PCBs in Altium, and getting sensor data from a board to a dashboard. On the side I build digital designs in Verilog and SystemVerilog for FPGAs.
 
+Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedded and electronics projects since 2022.
 ## 🛠️ Tech Stack
 
 ### Languages
