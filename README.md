@@ -9,6 +9,16 @@
 I'm an Electrical and Information Engineering undergraduate at the University of Ruhuna, working across firmware, PCB design, and cloud-connected IoT systems. Day to day that means writing RTOS firmware for STM32 and ESP32, designing analog circuits and PCBs in Altium, and getting sensor data from a board to a dashboard. On the side I build digital designs in Verilog and SystemVerilog for FPGAs.
 
 Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedded and electronics projects since 2022.
+
+
+## 🎯 Current Focus
+
+- 📚 Learning new technologies in both embedded and web development
+- 💡 Creating innovative solutions that bridge hardware and software
+- ⚡ Developing FPGA-based systems and high-performance computing solutions
+- - 🔥 Building IoT solutions and embedded systems
+- 🚀 Contributing to open source hardware and software projects
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -17,8 +27,6 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white)
-
-### Frontend
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,31 +37,20 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-
-### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Embedded & Hardware
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-FF6B6B?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-### Robotics & AI
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6B6B?style=for-the-badge&logo=gazebo&logoColor=white)
-
-### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -64,13 +61,7 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 
 
 
-## 🎯 Current Focus
 
-- 🔥 Building IoT solutions and embedded systems
-- 🚀 Contributing to open source hardware and software projects
-- 📚 Learning new technologies in both embedded and web development
-- 💡 Creating innovative solutions that bridge hardware and software
-- ⚡ Developing FPGA-based systems and high-performance computing solutions
 
 ## 🤝 Connect with Me
 
