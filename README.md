@@ -16,7 +16,7 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 - 📚 Learning new technologies in both embedded and web development
 - 💡 Creating innovative solutions that bridge hardware and software
 - ⚡ Developing FPGA-based systems and high-performance computing solutions
-- - 🔥 Building IoT solutions and embedded systems
+- 🔥 Building IoT solutions and embedded systems
 - 🚀 Contributing to open source hardware and software projects
 
 ## 🛠️ Tech Stack
