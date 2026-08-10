@@ -56,11 +56,41 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium&logoColor=white)
 
+## 🔧 Featured Engineering Projects
 
+### ⚡ [LECO Smart Electricity Meter](https://github.com/kalharaCK/LECO-Smart-Electricity-Meter)
+Full-stack smart metering platform for monitoring electricity consumption, managing users and meters, generating reports, and visualizing usage data through a React-based dashboard and Node.js/Express backend.
 
+**Tech:** React • Node.js • Express • MongoDB/PostgreSQL • REST APIs • Docker
 
+### 🏎️ [Ruhuna Racing Low-Voltage Architecture](https://github.com/kalharaCK/Ruhuna-Racing-Low-voltage-Architecture)
+Low-voltage electrical architecture work for a Formula Student-style race car, focused on reliable power distribution, electronics integration, and vehicle electrical-system design.
 
+**Focus:** Automotive Electronics • Power Distribution • Wiring Architecture • System Integration
 
+### 📐 [2D FEA Tool & Truss Solver](https://github.com/kalharaCK/2D-FEA-tool-and-Truss-solver)
+Engineering analysis software for solving two-dimensional finite-element and truss problems, combining numerical methods with an interactive engineering workflow.
+
+**Tech:** MATLAB • Finite Element Analysis • Numerical Methods • Engineering Computation
+
+### 🌱 [Greenhouse Monitoring System](https://github.com/kalharaCK/Greenhouse-Monitoring-System)
+Embedded IoT monitoring system designed to collect environmental data and support real-time greenhouse condition monitoring.
+
+**Focus:** Embedded Systems • IoT • Sensors • Environmental Monitoring
+
+### 🏭 [IIoT Device Configuration Panel](https://github.com/kalharaCK/IIOT-device-config-pannel)
+Web-based configuration interface for industrial IoT devices, designed to simplify device setup, connectivity configuration, and deployment workflows.
+
+**Focus:** IIoT • Device Configuration • Embedded-Web Integration • Industrial Systems
+
+### 🎵 [Audio Analyzer](https://github.com/kalharaCK/Audio-analyzer)
+Signal-processing project for analyzing audio data and extracting useful frequency-domain information from sampled signals.
+
+**Focus:** Digital Signal Processing • Audio Analysis • Frequency-Domain Processing
+
+<p align="center">
+  <a href="https://github.com/kalharaCK?tab=repositories"><b>View all repositories →</b></a>
+</p>
 
 ## 🤝 Connect with Me
 
