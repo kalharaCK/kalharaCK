@@ -58,6 +58,11 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 
 ## 🔧 Projects
 
+### 📡 [TerraLink — Portable LoRa GPS Communicator](https://github.com/kalharaCK/terralink-lora-communicator)
+Portable off-grid communicator built for exchanging short messages, GPS coordinates, and SOS alerts when cellular networks and internet connectivity are unavailable. Implements a custom LoRa packet protocol with CRC16 validation, acknowledgements, retries, duplicate suppression, inbox storage, power-saving light sleep, and compatible Arduino and MicroPython firmware. Radio testing achieved a 5 km line-of-sight link between compatible devices.
+
+**Tech:** ESP32 • SX1278 LoRa • GPS • C++ • MicroPython • PlatformIO • SPI • UART • I²C • CRC16 • Embedded Systems
+
 ### 🤖 [Adaptive Modular Hexapod Robot for LiDAR Terrain Mapping](https://github.com/kalharaCK/adaptive-modular-hexapod)
 Fault-tolerant modular hexapod designed for rough-terrain LiDAR mapping. Removable legs are detected by the ESP32, and the firmware adapts its gait according to the remaining available legs, including degraded operation with damaged or disconnected legs.
 
