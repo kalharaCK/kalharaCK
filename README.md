@@ -56,37 +56,67 @@ Currently a Trainee IoT Engineer at SLT Digital Labs, and freelancing on embedde
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altium&logoColor=white)
 
-## 🔧 Featured Engineering Projects
+## 🔧 Projects
+
+### 🤖 [Adaptive Modular Hexapod Robot for LiDAR Terrain Mapping](https://github.com/kalharaCK/adaptive-modular-hexapod)
+Fault-tolerant modular hexapod designed for rough-terrain LiDAR mapping. Removable legs are detected by the ESP32, and the firmware adapts its gait according to the remaining available legs, including degraded operation with damaged or disconnected legs.
+
+**Tech:** ESP32 • C++ • PlatformIO • PCA9685 • Bluetooth Serial • Fusion 360 • Robotics
 
 ### ⚡ [LECO Smart Electricity Meter](https://github.com/kalharaCK/LECO-Smart-Electricity-Meter)
-Full-stack smart metering platform for monitoring electricity consumption, managing users and meters, generating reports, and visualizing usage data through a React-based dashboard and Node.js/Express backend.
+Full-stack smart electricity metering platform for monitoring consumption, managing meters and users, generating reports, and visualizing electricity data through a web dashboard.
 
-**Tech:** React • Node.js • Express • MongoDB/PostgreSQL • REST APIs • Docker
-
-### 🏎️ [Ruhuna Racing Low-Voltage Architecture](https://github.com/kalharaCK/Ruhuna-Racing-Low-voltage-Architecture)
-Low-voltage electrical architecture work for a Formula Student-style race car, focused on reliable power distribution, electronics integration, and vehicle electrical-system design.
-
-**Focus:** Automotive Electronics • Power Distribution • Wiring Architecture • System Integration
+**Tech:** React • Node.js • Express • REST APIs • MongoDB/PostgreSQL • Docker
 
 ### 📐 [2D FEA Tool & Truss Solver](https://github.com/kalharaCK/2D-FEA-tool-and-Truss-solver)
-Engineering analysis software for solving two-dimensional finite-element and truss problems, combining numerical methods with an interactive engineering workflow.
+MATLAB finite-element analysis application supporting truss, frame, and 2D plane-stress models with an interactive GUI, deformation visualization, stress recovery, force diagrams, self-weight calculation, and structural stability detection.
 
-**Tech:** MATLAB • Finite Element Analysis • Numerical Methods • Engineering Computation
+**Tech:** MATLAB • App Designer • Finite Element Analysis • Numerical Methods • Structural Analysis
 
-### 🌱 [Greenhouse Monitoring System](https://github.com/kalharaCK/Greenhouse-Monitoring-System)
-Embedded IoT monitoring system designed to collect environmental data and support real-time greenhouse condition monitoring.
+### 🏎️ [Ruhuna Racing Low-Voltage Architecture](https://github.com/kalharaCK/Ruhuna-Racing-Low-voltage-Architecture)
+Interactive systems architecture and Formula Student rule-compliance tool for the FB-2026 electric race car low-voltage system, covering ECUs, sensors, actuators, safety circuits, communication buses, component data, and design-rule references.
 
-**Focus:** Embedded Systems • IoT • Sensors • Environmental Monitoring
+**Tech:** React • TypeScript • Tailwind CSS • Vite • Automotive Electronics • CAN • Formula Student EV
 
-### 🏭 [IIoT Device Configuration Panel](https://github.com/kalharaCK/IIOT-device-config-pannel)
-Web-based configuration interface for industrial IoT devices, designed to simplify device setup, connectivity configuration, and deployment workflows.
+### 🏭 [ESP32 IIoT Device Configuration Panel](https://github.com/kalharaCK/IIOT-device-config-pannel)
+Dual-mode embedded configuration portal for ESP32 industrial IoT devices with AP/STA Wi-Fi management, captive portal setup, GSM integration, SMS/call functions, SMTP configuration, sensor monitoring, REST APIs, and persistent device settings.
 
-**Focus:** IIoT • Device Configuration • Embedded-Web Integration • Industrial Systems
+**Tech:** ESP32 • C++ • Arduino • Wi-Fi • GSM • SPIFFS • REST API • Embedded Web Server
 
-### 🎵 [Audio Analyzer](https://github.com/kalharaCK/Audio-analyzer)
-Signal-processing project for analyzing audio data and extracting useful frequency-domain information from sampled signals.
+### 🐾 [PetCare Management System](https://github.com/kalharaCK/MERN-project)
+Full-stack pet-care platform where owners can manage pets and book veterinary appointments, veterinarians can manage schedules and patient records, and administrators can approve doctors and manage users.
 
-**Focus:** Digital Signal Processing • Audio Analysis • Frequency-Domain Processing
+**Tech:** Next.js • React • MongoDB • Mongoose • JWT • Tailwind CSS • REST APIs
+
+### 🌱 [Smart Greenhouse Control System](https://github.com/kalharaCK/Greenhouse-Monitoring-System)
+ESP32-based IoT greenhouse platform for monitoring temperature, humidity, soil moisture, light and CO₂ while controlling irrigation, ventilation, lighting and environmental actuators through an embedded web dashboard.
+
+**Tech:** ESP32 • PlatformIO • Arduino • Sensors • AP+STA Wi-Fi • Captive Portal • Embedded Web Dashboard
+
+### 🏠 [Boarding Place Marketplace](https://github.com/kalharaCK/Web-development-project)
+Full-stack marketplace for university students and property owners with boarding-place search, advanced filters, listing comparison, maps, property management, authentication, image uploads, and responsive dashboards.
+
+**Tech:** React • Node.js • Express • MongoDB • Mongoose • JWT • REST APIs
+
+### 📒 [Advanced Contact Management System](https://github.com/kalharaCK/Contact-management-system)
+C# contact-management application implementing CRUD operations, importing/exporting records, multiple search methods, classic sorting algorithms, and execution-time comparisons for algorithm analysis.
+
+**Tech:** C# • Data Structures • Binary Search • Merge Sort • Quick Sort • Algorithm Analysis
+
+### 🎵 [Real-Time Audio Analyzer](https://github.com/kalharaCK/Audio-analyzer)
+MATLAB real-time audio-processing tool with live time-domain and FFT visualization, dynamic spectrograms, configurable band-pass filtering, and audio recording.
+
+**Tech:** MATLAB • FFT • DSP • Spectrogram • Digital Filtering • Real-Time Audio
+
+### 📄 [Image-to-PDF Converter](https://github.com/kalharaCK/Image-to-pdf-converter-)
+Responsive browser-based utility for combining images into PDF documents with drag-and-drop upload, image reordering, removal, and client-side PDF generation.
+
+**Tech:** HTML • CSS • JavaScript • jsPDF
+
+### 🤖 [AI Personal Assistant](https://github.com/kalharaCK/ChatbotAI)
+AI-powered personal assistant combining natural-language conversation, voice interaction, file uploads, calendar scheduling, and priority-based task management in a responsive interface.
+
+**Tech:** React • TypeScript • Gemini AI • Calendar & Task Management • Voice Interaction
 
 <p align="center">
   <a href="https://github.com/kalharaCK?tab=repositories"><b>View all repositories →</b></a>
