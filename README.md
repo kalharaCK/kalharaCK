@@ -64,6 +64,11 @@ Portable off-grid communicator built for exchanging short messages, GPS coordina
 **Tech:** ESP32 • SX1278 LoRa • GPS • C++ • MicroPython • PlatformIO • SPI • UART • I²C • CRC16 • Embedded Systems
 
 ### 🤖 [Adaptive Modular Hexapod Robot for LiDAR Terrain Mapping](https://github.com/kalharaCK/adaptive-modular-hexapod)
+
+<a href="https://github.com/kalharaCK/adaptive-modular-hexapod">
+  <img src="https://raw.githubusercontent.com/kalharaCK/adaptive-modular-hexapod/main/Robot%20files/Robot%20redered%20img.jpeg" alt="Adaptive Modular Hexapod Robot" width="520">
+</a>
+
 Fault-tolerant modular hexapod designed for rough-terrain LiDAR mapping. Removable legs are detected by the ESP32, and the firmware adapts its gait according to the remaining available legs, including degraded operation with damaged or disconnected legs.
 
 **Tech:** ESP32 • C++ • PlatformIO • PCA9685 • Bluetooth Serial • Fusion 360 • Robotics
