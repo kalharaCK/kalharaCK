@@ -87,6 +87,13 @@ Interactive systems architecture and Formula Student rule-compliance tool for th
 **Tech:** React • TypeScript • Tailwind CSS • Vite • Automotive Electronics • CAN • Formula Student EV
 
 ### 🏭 [ESP32 IIoT Device Configuration Panel](https://github.com/kalharaCK/IIOT-device-config-pannel)
+
+<p align="center">
+  <a href="https://github.com/kalharaCK/IIOT-device-config-pannel">
+    <img src="https://raw.githubusercontent.com/kalharaCK/IIOT-device-config-pannel/main/Picture6.png" alt="ESP32 IIoT Device Configuration Panel" width="520">
+  </a>
+</p>
+
 Dual-mode embedded configuration portal for ESP32 industrial IoT devices with AP/STA Wi-Fi management, captive portal setup, GSM integration, SMS/call functions, SMTP configuration, sensor monitoring, REST APIs, and persistent device settings.
 
 **Tech:** ESP32 • C++ • Arduino • Wi-Fi • GSM • SPIFFS • REST API • Embedded Web Server
