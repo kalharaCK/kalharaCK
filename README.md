@@ -79,6 +79,13 @@ MATLAB finite-element analysis application supporting truss, frame, and 2D plane
 **Tech:** MATLAB • App Designer • Finite Element Analysis • Numerical Methods • Structural Analysis
 
 ### 🏎️ [Ruhuna Racing Low-Voltage Architecture](https://github.com/kalharaCK/Ruhuna-Racing-Low-voltage-Architecture)
+
+<p align="center">
+  <a href="https://github.com/kalharaCK/Ruhuna-Racing-Low-voltage-Architecture">
+    <img src="https://raw.githubusercontent.com/kalharaCK/Ruhuna-Racing-Low-voltage-Architecture/main/Screenshot%202026-08-12%20014104.png" alt="Ruhuna Racing Low-Voltage Architecture" width="520">
+  </a>
+</p>
+
 Interactive systems architecture and Formula Student rule-compliance tool for the FB-2026 electric race car low-voltage system, covering ECUs, sensors, actuators, safety circuits, communication buses, component data, and design-rule references.
 
 **Tech:** React • TypeScript • Tailwind CSS • Vite • Automotive Electronics • CAN • Formula Student EV
