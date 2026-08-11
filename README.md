@@ -61,10 +61,6 @@ Fault-tolerant modular hexapod designed for rough-terrain LiDAR mapping. Removab
 
 **Tech:** ESP32 • C++ • PlatformIO • PCA9685 • Bluetooth Serial • Fusion 360 • Robotics
 
-### ⚡ [LECO Smart Electricity Meter](https://github.com/kalharaCK/LECO-Smart-Electricity-Meter)
-Full-stack smart electricity metering platform for monitoring consumption, managing meters and users, generating reports, and visualizing electricity data through a web dashboard.
-
-**Tech:** React • Node.js • Express • REST APIs • MongoDB/PostgreSQL • Docker
 
 ### 📐 [2D FEA Tool & Truss Solver](https://github.com/kalharaCK/2D-FEA-tool-and-Truss-solver)
 
