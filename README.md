@@ -67,6 +67,13 @@ Full-stack smart electricity metering platform for monitoring consumption, manag
 **Tech:** React • Node.js • Express • REST APIs • MongoDB/PostgreSQL • Docker
 
 ### 📐 [2D FEA Tool & Truss Solver](https://github.com/kalharaCK/2D-FEA-tool-and-Truss-solver)
+
+<p align="center">
+  <a href="https://github.com/kalharaCK/2D-FEA-tool-and-Truss-solver">
+    <img src="https://raw.githubusercontent.com/kalharaCK/2D-FEA-tool-and-Truss-solver/main/Screen%20Recording%202026-07-01%20004347.gif" alt="2D FEA Tool and Truss Solver" width="520">
+  </a>
+</p>
+
 MATLAB finite-element analysis application supporting truss, frame, and 2D plane-stress models with an interactive GUI, deformation visualization, stress recovery, force diagrams, self-weight calculation, and structural stability detection.
 
 **Tech:** MATLAB • App Designer • Finite Element Analysis • Numerical Methods • Structural Analysis
